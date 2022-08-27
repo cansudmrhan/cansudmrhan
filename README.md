@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+** 🔭 I’m currently working on programming
+
+**🌱 I’m currently learning frontend development.
+
+** 📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.linkedin.com/in/cansu-demirhan-177387190/)) 
 <!--
 **cansudmrhan/cansudmrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
