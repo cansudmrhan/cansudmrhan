@@ -11,6 +11,9 @@
   
   ### Languages and Tools
   
+  [![Javascript Badge](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  
+  
 <!--
 **cansudmrhan/cansudmrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
