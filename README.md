@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am a frontend developer.
 
   🔭 I’m currently working on programming
 
@@ -9,11 +10,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0000FF?style=flat-square&labelColor=0000FF&logo=Medium&logoColor=white&link=link)](https://www.linkedin.com/in/cansu-demirhan-177387190/)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Medium&logoColor=white&link=link)](https://twitter.com/cansudmrhan)
   
-  ### Languages and Tools
+<!--  ### Languages and Tools
   
   [![Javascript Badge](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
-  
+-->  
 <!--
 **cansudmrhan/cansudmrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
