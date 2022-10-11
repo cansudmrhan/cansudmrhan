@@ -11,7 +11,7 @@
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Medium&logoColor=white&link=link)](https://twitter.com/cansudmrhan)
   
   ### Languages and Tools
-  HTML5 , PhaserJs , Javascript , Jquery , VueJs , Python , Flask
+  HTML5 , PhaserJs , Javascript , React, Jquery , Vuejs , Python , Flask
 <!--  [![Javascript Badge](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
 -->  
